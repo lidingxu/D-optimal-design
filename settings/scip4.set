@@ -1,0 +1,12 @@
+display/width = 150
+table/cons_nonlinear/active = TRUE
+display/completed/active = 0
+display/separounds/active = 2
+
+limits/gap = 1e-4
+limits/time = 3600
+
+cutselection/hybrid/minortho = 0
+cutselection/hybrid/minorthoroot = 0
+cutselection/hybrid/intsupportweight = 0
+cutselection/hybrid/objparalweight = 0
